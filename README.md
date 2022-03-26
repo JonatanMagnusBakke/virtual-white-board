@@ -3,6 +3,9 @@
 This is my Hand in for the CIC-HIRING-TEST.
 I have chosen to implement the virtual white board.
 My focus while implementing the virtual white board was on test driven development. This means I spent most of my time of my time creating test.
+
+I have chosen to write the backend using Go, since I wanted to gain more experience with this language.
+
 Below is the list of user stories I managed to implement.
 
 ### Login
